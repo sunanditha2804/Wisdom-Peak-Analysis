@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/wisdom-peak-analytics/static/css/main.9f05eeda.css",
-    "main.js": "/wisdom-peak-analytics/static/js/main.df30f2ad.js",
-    "index.html": "/wisdom-peak-analytics/index.html",
-    "main.9f05eeda.css.map": "/wisdom-peak-analytics/static/css/main.9f05eeda.css.map",
-    "main.df30f2ad.js.map": "/wisdom-peak-analytics/static/js/main.df30f2ad.js.map"
+    "main.css": "/wisdom-peak-analysis/static/css/main.9f05eeda.css",
+    "main.js": "/wisdom-peak-analysis/static/js/main.0d0ca764.js",
+    "index.html": "/wisdom-peak-analysis/index.html",
+    "main.9f05eeda.css.map": "/wisdom-peak-analysis/static/css/main.9f05eeda.css.map",
+    "main.0d0ca764.js.map": "/wisdom-peak-analysis/static/js/main.0d0ca764.js.map"
   },
   "entrypoints": [
     "static/css/main.9f05eeda.css",
-    "static/js/main.df30f2ad.js"
+    "static/js/main.0d0ca764.js"
   ]
 }
